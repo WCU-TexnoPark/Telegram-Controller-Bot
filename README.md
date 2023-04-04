@@ -13,7 +13,8 @@
 
 ----
 ## Examples
-Exaamples in [here](https://github.com/WCU-TexnoPark/Telegram-Controller-Bot/tree/main/example). Photos and video.
+Examples in [here](https://github.com/WCU-TexnoPark/Telegram-Controller-Bot/tree/main/example) and [youtube](https://www.youtube.com/watch?v=k38fl313fVY). 
+
 
 
 
