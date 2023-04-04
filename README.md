@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Telegram Controller Bot</h1>
-  <img src="/video & photos/video/example.mp4" width="200" height="200">
+  <img src="https://graph.org/file/5e5f8a780bda486c11879.jpg" width="200" height="200">
 </div>
 <p align="center">
     This telegram bot is made for simple control. 
